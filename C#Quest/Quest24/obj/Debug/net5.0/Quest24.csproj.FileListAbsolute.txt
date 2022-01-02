@@ -1,0 +1,16 @@
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\bin\Debug\net5.0\Quest24.exe
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\bin\Debug\net5.0\Quest24.deps.json
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\bin\Debug\net5.0\Quest24.runtimeconfig.json
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\bin\Debug\net5.0\Quest24.runtimeconfig.dev.json
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\bin\Debug\net5.0\Quest24.dll
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\bin\Debug\net5.0\ref\Quest24.dll
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\bin\Debug\net5.0\Quest24.pdb
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\Quest24.csproj.AssemblyReference.cache
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\Quest24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\Quest24.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\Quest24.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\Quest24.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\Quest24.dll
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\ref\Quest24.dll
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\Quest24.pdb
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest24\obj\Debug\net5.0\Quest24.genruntimeconfig.cache

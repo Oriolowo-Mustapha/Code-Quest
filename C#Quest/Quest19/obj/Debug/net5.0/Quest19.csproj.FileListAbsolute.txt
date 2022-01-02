@@ -1,0 +1,16 @@
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\bin\Debug\net5.0\Quest19.exe
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\bin\Debug\net5.0\Quest19.deps.json
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\bin\Debug\net5.0\Quest19.runtimeconfig.json
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\bin\Debug\net5.0\Quest19.runtimeconfig.dev.json
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\bin\Debug\net5.0\Quest19.dll
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\bin\Debug\net5.0\ref\Quest19.dll
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\bin\Debug\net5.0\Quest19.pdb
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\Quest19.csproj.AssemblyReference.cache
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\Quest19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\Quest19.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\Quest19.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\Quest19.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\Quest19.dll
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\ref\Quest19.dll
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\Quest19.pdb
+C:\Users\ORIOLOWO\Desktop\C# Quest\Quest19\obj\Debug\net5.0\Quest19.genruntimeconfig.cache
